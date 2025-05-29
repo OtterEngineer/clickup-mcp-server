@@ -37,7 +37,7 @@ Add this entry to your client's MCP settings JSON file:
       "command": "npx",
       "args": [
         "-y",
-        "@taazkareem/clickup-mcp-server@latest"
+        "@OtterEngineer/clickup-mcp-server@latest"
       ],
       "env": {
         "CLICKUP_API_KEY": "your-api-key",
